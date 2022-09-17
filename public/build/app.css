@@ -1,0 +1,30 @@
+/*!**************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[1].use[1]!./assets/styles/app.css ***!
+  \**************************************************************************************************************/
+
+
+body {
+    background-color: lightslategray;
+}
+
+.content{
+    display: flex;
+}
+
+header{
+    margin-top: -20px;
+    background-color: white;
+}
+
+.sidebar{
+    width: 25%;
+    background-color: white;
+    height: 100vh;
+    margin-top: -22px;
+}
+
+.tablesport{
+    display: block;
+}
+
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiYXBwLmNzcyIsIm1hcHBpbmdzIjoiOzs7OztBQUVBO0lBQ0ksZ0NBQWdDO0FBQ3BDOztBQUVBO0lBQ0ksYUFBYTtBQUNqQjs7QUFFQTtJQUNJLGlCQUFpQjtJQUNqQix1QkFBdUI7QUFDM0I7O0FBRUE7SUFDSSxVQUFVO0lBQ1YsdUJBQXVCO0lBQ3ZCLGFBQWE7SUFDYixpQkFBaUI7QUFDckI7O0FBRUE7SUFDSSxjQUFjO0FBQ2xCLEMiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9hc3NldHMvc3R5bGVzL2FwcC5jc3MiXSwic291cmNlc0NvbnRlbnQiOlsiXG5cbmJvZHkge1xuICAgIGJhY2tncm91bmQtY29sb3I6IGxpZ2h0c2xhdGVncmF5O1xufVxuXG4uY29udGVudHtcbiAgICBkaXNwbGF5OiBmbGV4O1xufVxuXG5oZWFkZXJ7XG4gICAgbWFyZ2luLXRvcDogLTIwcHg7XG4gICAgYmFja2dyb3VuZC1jb2xvcjogd2hpdGU7XG59XG5cbi5zaWRlYmFye1xuICAgIHdpZHRoOiAyNSU7XG4gICAgYmFja2dyb3VuZC1jb2xvcjogd2hpdGU7XG4gICAgaGVpZ2h0OiAxMDB2aDtcbiAgICBtYXJnaW4tdG9wOiAtMjJweDtcbn1cblxuLnRhYmxlc3BvcnR7XG4gICAgZGlzcGxheTogYmxvY2s7XG59Il0sIm5hbWVzIjpbXSwic291cmNlUm9vdCI6IiJ9*/

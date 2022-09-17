@@ -1,0 +1,21 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Category{% endblock %}
+
+{% block body %}
+    <header>
+    <h1>Category</h1>
+    </header>
+    <table class="tablesport">
+        <tbody>
+            <tr>
+                <th>{{ category.name }}</th>
+
+                </tr>
+                {%for sport in sports%}
+                <td>{{ sport.name }}  <a href="{{ path('app_sport_show', {'id': sport.id}) }}">show</a></td></tr>
+                {%endfor%}
+            </tr>
+        </tbody>
+    </table>
+{% endblock %}
